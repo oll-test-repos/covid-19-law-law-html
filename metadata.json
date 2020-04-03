@@ -2,7 +2,7 @@
   "meta": {
     "build": {
       "build-date": "2020-04-03",
-      "codified-date": "2020-03-16",
+      "codified-date": "2020-03-17",
       "platform": {
         "reproducible": "false",
         "version": "2020.2.0"
@@ -13,7 +13,7 @@
           "name": "covid-19-law/law-xml"
         },
         {
-          "commit": "091c1c0e762afdde2897d3bd5ab365d8b9487e01",
+          "commit": "f9020c54a787bfc837677ec412fc8db760879da6",
           "name": "covid-19-law/law-xml-codified"
         }
       ]
